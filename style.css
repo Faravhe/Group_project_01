@@ -1,0 +1,48 @@
+/* background*/
+#backgroundVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+/* Style for main body*/
+#surface {
+    position: fixed;
+    /*bottom: 0; */
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    /*padding: 20px; */
+  }
+/* Style for nav
+nav{
+    margin: 0;
+    width: 100%;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.5);
+    
+}*/
+  nav ul{
+    width: 300px;
+    justify-content: space-between;
+  }
+
+  nav ul li a{
+     text-decoration: none;
+      color: ivory;
+      text-align: center;
+  }
+  nav ul li a:hover{
+    color: lightblue;
+  }
+
+  /* Style for figures*/
+  .signUp {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    text-align: center;
+    margin: 10px 500px;
+  } 
