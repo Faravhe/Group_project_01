@@ -76,3 +76,8 @@ footer {
     width: 100%;
     color: rgb(175, 179, 182);
   } 
+  /*About */
+  table{
+    text-align: center;
+    margin: 0 415px;
+  }
